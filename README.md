@@ -1,4 +1,4 @@
-                                       **# Single-cell-RNA-sequencing**
+                       **Single-cell-RNA-sequencing for mouse dataset - Diabetic retinopathy study**
                                                  **ABSTRACT**
 The retina is the utmost important part of the eye which enables visual perception. There are many 
 studies undertaken to understand the retinal cells and their functions, but still, the proportions of cell 
