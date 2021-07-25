@@ -34,7 +34,7 @@ single-cell RNA sequencing. ScRNA-seq is one of the promising technology in this
 deconvolution process has not satisfied as much as expected, with accurate cell proportions in this 
 project.
 
-                                                       **Objectives: ** 
+                                       **Objectives: ** 
  Optimise the scRNA-seq data approach using Seurat by investigating the effects of QC and  background correction for healthy and a diabetic dataset of the mouse retina. 
  Perform differential gene expression.  
  Perform clustering of the different retinal cell types from the scRNA-Seq data by assessing a  range of publicly available algorithms. 
