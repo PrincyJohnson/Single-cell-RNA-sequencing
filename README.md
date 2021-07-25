@@ -59,7 +59,6 @@ Figure 2 - Cell cluster UMAP to regulate diabetic retina in the mouse. (Figure 2
 
 The above figure: 3 represents the difference between control and diseased dataset. Both the datasets are more or less same, except instead of endothelial cell, horizontal cells are available in control datasets.
 
-
-**Bar chart for both the results**
+                              **Bar chart for both the results**
 ![image](https://user-images.githubusercontent.com/54199923/126889924-c772f4a5-d4c8-4603-9e2a-01b4371f9e56.png)
 
